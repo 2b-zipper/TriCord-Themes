@@ -1,0 +1,27 @@
+{
+    "name": "Dracula",
+    "description": "A vibrant and modern dark theme",
+    "author": "2b-zipper",
+    "colors": {
+        "background": "#282a36",
+        "backgroundDark": "#21222c",
+        "backgroundLight": "#343746",
+        "primary": "#ff79c6",
+        "text": "#f8f8f2",
+        "textMuted": "#6272a4",
+        "success": "#50fa7b",
+        "error": "#ff5555",
+        "embed": "#21222c",
+        "embedMedia": "#191a21",
+        "reaction": "#44475a",
+        "reactionMe": "#bd93f9",
+        "input": "#191a21",
+        "boost": "#ffb86c",
+        "link": "#8be9fd",
+        "separator": "#44475a",
+        "headerBorder": "#6272a4",
+        "selection": "#bd93f9",
+        "overlay": "#00000096",
+        "white": "#ffffff"
+    }
+}
