@@ -1,27 +1,35 @@
 {
     "name": "Pure Black",
-    "description": "A pure black theme",
     "author": "2b-zipper",
+    "description": "A pure black theme",
     "colors": {
-        "background": "#000000",
-        "backgroundDark": "#000000",
-        "backgroundLight": "#111111",
-        "primary": "#ffffff",
-        "text": "#ffffff",
-        "textMuted": "#888888",
-        "success": "#ffffff",
-        "error": "#ff0000",
-        "embed": "#000000",
-        "embedMedia": "#000000",
-        "reaction": "#111111",
-        "reactionMe": "#333333",
-        "input": "#000000",
-        "boost": "#ffffff",
-        "link": "#aaaaaa",
-        "separator": "#222222",
-        "headerBorder": "#222222",
-        "selection": "#333333",
-        "overlay": "#00000096",
-        "white": "#ffffff"
+        "ui": {
+            "background": "#000000",
+            "background_dark": "#000000",
+            "background_light": "#111111",
+            "accent": "#ffffff",
+            "selection": "#333333",
+            "separator": "#222222",
+            "header_border": "#222222",
+            "overlay": "#00000096",
+            "pure_white": "#ffffff"
+        },
+        "text": {
+            "main": "#ffffff",
+            "muted": "#888888",
+            "link": "#aaaaaa"
+        },
+        "discord": {
+            "embed_bg": "#000000",
+            "embed_media_bg": "#000000",
+            "reaction_bg": "#111111",
+            "reaction_me_bg": "#333333",
+            "input_bg": "#000000",
+            "boost": "#ffffff"
+        },
+        "status": {
+            "success": "#ffffff",
+            "error": "#ff0000"
+        }
     }
 }
