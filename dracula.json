@@ -2,6 +2,7 @@
     "name": "Dracula",
     "author": "2b-zipper",
     "description": "A vibrant and modern dark theme",
+    "update_url": "https://raw.githubusercontent.com/2b-zipper/TriCord-Themes/refs/heads/main/dracula.json",
     "colors": {
         "ui": {
             "background": "#282a36",

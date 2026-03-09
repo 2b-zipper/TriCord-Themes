@@ -2,6 +2,7 @@
     "name": "Pure Black",
     "author": "2b-zipper",
     "description": "A pure black theme",
+    "update_url": "https://raw.githubusercontent.com/2b-zipper/TriCord-Themes/refs/heads/main/pure_black.json",
     "colors": {
         "ui": {
             "background": "#000000",
