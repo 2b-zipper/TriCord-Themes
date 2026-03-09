@@ -1,0 +1,36 @@
+{
+    "name": "Default Dark",
+    "author": "TriCord",
+    "description": "The default dark theme for TriCord",
+    "update_url": "https://raw.githubusercontent.com/2b-zipper/TriCord-Themes/refs/heads/main/default_dark.json",
+    "colors": {
+        "ui": {
+            "background": "#313338",
+            "background_dark": "#2B2D31",
+            "background_light": "#404249",
+            "accent": "#5865F2",
+            "selection": "#5865F2",
+            "separator": "#949BA4",
+            "header_border": "#FFFFFF1E",
+            "overlay": "#00000096",
+            "pure_white": "#FFFFFF"
+        },
+        "text": {
+            "main": "#FFFFFF",
+            "muted": "#949BA4",
+            "link": "#49BAFE"
+        },
+        "discord": {
+            "embed_bg": "#2B2D31",
+            "embed_media_bg": "#313338",
+            "reaction_bg": "#404249",
+            "reaction_me_bg": "#47648B",
+            "input_bg": "#202225",
+            "boost": "#FF73F2"
+        },
+        "status": {
+            "success": "#43B16D",
+            "error": "#F0474D"
+        }
+    }
+}
