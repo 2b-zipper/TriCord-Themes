@@ -25,8 +25,7 @@
             "embed_media_bg": "#000000",
             "reaction_bg": "#111111",
             "reaction_me_bg": "#333333",
-            "input_bg": "#000000",
-            "boost": "#ffffff"
+            "input_bg": "#000000"
         },
         "status": {
             "success": "#ffffff",

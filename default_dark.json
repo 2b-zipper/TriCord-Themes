@@ -25,8 +25,7 @@
             "embed_media_bg": "#313338",
             "reaction_bg": "#404249",
             "reaction_me_bg": "#47648B",
-            "input_bg": "#202225",
-            "boost": "#FF73F2"
+            "input_bg": "#202225"
         },
         "status": {
             "success": "#43B16D",
