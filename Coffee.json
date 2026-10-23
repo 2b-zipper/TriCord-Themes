@@ -1,0 +1,34 @@
+{
+    "name": "Coffee",
+    "author": "Fox",
+    "description": "A nice coffee theme.",
+    "colors": {
+        "ui": {
+            "background": "#2C1A0E",
+            "background_dark": "#1E1008",
+            "background_light": "#3D2512",
+            "accent": "#E8721C",
+            "selection": "#E8721C",
+            "separator": "#7A4A1E",
+            "header_border": "#E8721C30",
+            "overlay": "#1E100896",
+            "pure_white": "#FFE8D0"
+        },
+        "text": {
+            "main": "#FFD9A8",
+            "muted": "#A0673A",
+            "link": "#F0A050"
+        },
+        "discord": {
+            "embed_bg": "#1E1008",
+            "embed_media_bg": "#2C1A0E",
+            "reaction_bg": "#3D2512",
+            "reaction_me_bg": "#7A3A10",
+            "input_bg": "#160C05"
+        },
+        "status": {
+            "success": "#7DB560",
+            "error": "#D43A2A"
+        }
+    }
+}
